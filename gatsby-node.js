@@ -1,4 +1,4 @@
-exports.createPages = async ({ graphql, actions }) => {
+/*exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions;
 
   const {
@@ -23,4 +23,4 @@ exports.createPages = async ({ graphql, actions }) => {
       },
     })
   );
-};
+};*/
