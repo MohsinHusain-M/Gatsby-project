@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-categories-js",
+    "path": "/categories/",
+    "result": {"data":{"allChecCategory":{"nodes":[{"name":"Accessories","slug":"accessories"},{"name":"Home office","slug":"office"}]}},"pageContext":{}},
+    "staticQueryHashes": []}

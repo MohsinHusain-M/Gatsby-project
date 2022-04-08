@@ -1,0 +1,21 @@
+{
+  "name": "gastbyFolder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"gatsby build",
+    "clean":"gatsby clean",
+    "dev":"gatsby develop"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@chec/gatsby-source-chec": "1.3.0",
+    "gatsby": "4.11.2",
+    "react": "18.0.0",
+    "react-dom": "18.0.0"
+  }
+}
